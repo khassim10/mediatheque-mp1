@@ -2,8 +2,8 @@
 
 TP 1 – PHP · UE IT 231 Développement Web I · IPNET Institute of Technology · Année 2026-2027
 
-Auteur : **[NOM Prénoms]** – Filière GL – Licence 2
-Dépôt Git : **[lien du dépôt]**
+Auteur : **ABAKAR Brahim Khassim** – Filière GL – Licence 2
+Dépôt Git : **https://github.com/khassim10/mediatheque-mp1**
 
 ## Description
 
